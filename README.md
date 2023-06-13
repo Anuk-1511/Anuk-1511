@@ -16,7 +16,8 @@
 # leetcode
 ![](https://leetcard.jacoblin.cool/Anuk1511?cache=0)
 
-[![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=anubhavkumar10)](<YOUR_LINK_HERE>)
+#GFG
+[![](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=anubhavkumar10)](<YOUR_LINK_HERE>)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Anuk-1511&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Anuk-1511&theme=dracula&hide_border=false)<br/>
